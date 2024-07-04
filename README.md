@@ -39,3 +39,6 @@ Backend:
 cd server
 npm run dev
 ```
+#Glimpse of the project
+![image](https://github.com/codrrk08/Code-Sync/assets/95128123/d72ed00e-7104-4a9a-9266-187351ffb4a0)
+
