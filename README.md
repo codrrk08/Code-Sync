@@ -39,6 +39,26 @@ Backend:
 cd server
 npm run dev
 ```
-#Glimpse of the project
+# Glimpse of the project
+
 ![image](https://github.com/codrrk08/Code-Sync/assets/95128123/d72ed00e-7104-4a9a-9266-187351ffb4a0)
+This is the Home Page. Features unique room generation with room ID for collaboration.
+
+![image](https://github.com/codrrk08/Code-Sync/assets/95128123/a9f29f1e-f0cf-4dad-a561-2321d75f6629)
+This is the code editor. We can create new files,folders, or open existing file or folders on the system. We can also download the code as a zip file. Comprehensive language support for versatile programming.
+
+![image](https://github.com/codrrk08/Code-Sync/assets/95128123/adde39d1-8a05-44f2-9b5e-c406456842d1)
+Real time chat which helps the users collaborate effectively.
+
+![image](https://github.com/codrrk08/Code-Sync/assets/95128123/5afbf260-5a0e-4bb3-a12d-e312abfa2850)
+Code Execution: Users can execute the code directly within the collaboration environment, providing instant feedback and results.
+
+![image](https://github.com/codrrk08/Code-Sync/assets/95128123/7ba28628-753f-4c4f-b4cd-c2ebbf196a40)
+Instant updates and synchronization of code changes across all files and folders. Provides notifications for user join and leave events . Also shows user presence list of users currently in the collaboration session, including online/offline status indicators.
+
+
+
+
+
+
 
